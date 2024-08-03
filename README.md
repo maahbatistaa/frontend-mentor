@@ -4,7 +4,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
 
-<a href="https://maahbatistaa.github.io/frontend-mentor/repice-page/">
+<a href="https://maahbatistaa.github.io/frontend-mentor/recipe-page/">
   teste
   <img src="" />
 </a>
