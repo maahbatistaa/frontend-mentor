@@ -121,3 +121,24 @@ h2 {
   border-top: 0.5px solid var(--white-coffee);
   margin-bottom: 5px;
 }
+
+@media (max-width: 475px ) {
+  .content {
+    margin: 0;
+    padding: 0;
+  }
+  main {
+    width: 375px;
+    padding: 0 2rem;
+  }
+  img {
+    width: 375px;
+    height: 171px;
+  }
+  h1 {
+    font-size: 2.25rem;
+  }
+  .nutrition-data {
+    grid-template-columns: 150px 110px;
+  }
+}
