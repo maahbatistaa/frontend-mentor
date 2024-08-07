@@ -4,8 +4,6 @@
 - [Visão geral](#visão-geral)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
 - [Author](#author)
 
 ## Visão geral
@@ -15,14 +13,6 @@
 
 ### Links
 - Live Site URL: [Acesse](https://maahbatistaa.github.io/frontend-mentor/recipe-page/)
-
-## My process
-
-### Built with
-
-- Marcação semântica HTML5
-- Propriedades personalizadas do CSS
-
 
 ## Author
 
